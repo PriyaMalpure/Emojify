@@ -11,7 +11,7 @@ This is very tiny dataset where:
 - training dataset contains 132 sentences (strings) & testing dataset contains 56 sentences.
 - Y contains an integer label between 0 and 4 corresponding to an emoji for each sentence.
 
-<img src="images/data_set.png" style="width:700px;height:300px;"><caption><center>EMOJISET - a classification problem with 5 classes.</center></caption>
+<img src="images/data_set.png" style="width:700px;height:300px;">
 
 There are 2 parts to this repo.<br>
 Emojify.ipynb contains the implementation of basic model. <br>
